@@ -14,6 +14,19 @@ var express = require('express'),
     publicDir = __dirname + '/public';
 
 
+// TODO Handlers For Socket Based Client App Setup
+
+// TODO Event handlers for incoming track data
+	
+// TODO Event Handlers for incoming alerts
+	
+// TODO Persistence Handlers for MongoDB and Elasticsearch
+	
+// TODO Query Handlers for MongoDB and Elasticsearch
+	
+// TODO Applicaiton Logic, which is able to do utilize all of the above handlers
+
+
 //// ######## Static Server
 
 app.get("/", function (req, res) {

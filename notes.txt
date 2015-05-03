@@ -4,3 +4,7 @@ npm install -d
 
 ## To start mongodb
 ./mongostart.sh
+
+
+## To start the app
+node server.js
