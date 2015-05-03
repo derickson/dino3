@@ -1,0 +1,21 @@
+{
+  "name": "dinotrap",
+  "version": "0.0.3",
+  "private": true,
+  "dependencies": {
+    "socket.io": "0.9.x",
+    "express": "latest",
+    "body-parser": "^1.1.2",
+    "errorhandler": "^1.0.1",
+    "method-override": "^1.0.0",
+	"mongodb": "latest"
+  },
+  "subdomain": "dinotrap",
+  "scripts": {
+    "start": "server.js"
+  },
+  "engines": {
+		"node": "0.10.x",
+		"npm": "1.2.x"
+  }
+}

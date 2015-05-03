@@ -1,0 +1,6 @@
+## to import npm modules
+npm install -d
+
+
+## To start mongodb
+./mongostart.sh
